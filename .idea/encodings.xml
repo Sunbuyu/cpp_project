@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/boss.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/boss.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/empFile.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/employee.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/employee.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manager.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/manager.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/worker.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/workerManager.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/workerManager.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/workerManger.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/基于多态的职工管理系统.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/职工管理系统.cpp" charset="UTF-8" />
+  </component>
+</project>

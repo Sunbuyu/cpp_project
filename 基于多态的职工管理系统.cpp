@@ -10,19 +10,19 @@ int main(){
 	while (1)
 	{
 		wm.Show_Menu();
-		cout << endl << "请输入您的选择:" << endl;
+		cout << endl << "璇疯緭鍏ユ偍鐨勯�夋嫨:" << endl;
 		cin >> choice;
 		cin.get();
 		switch (choice)
 		{
 		case 0:return 0; break;
-		case 1:wm.Add_Emp();  cout << "按回车键继续" << endl;  cin.get(); break;
-		case 2:wm.Del_Emp();  cout << "按回车键继续" << endl;  cin.get(); break;
-		case 3:wm.Show_Emp(); cout << "按回车键继续" << endl;  cin.get(); break;
-		case 4:wm.Mod_Emp();  cout << "按回车键继续" << endl;  cin.get(); break;
-		case 5:wm.Find_Emp(); cout << "按回车键继续" << endl;  cin.get(); break;
-		case 6:wm.Sort_Emp(); cout << "按回车键继续" << endl;  cin.get(); break;
-		case 7:wm.Clean_File();   cout << "按回车键继续" << endl;  cin.get(); break;
+		case 1:wm.Add_Emp();  cout << "鎸夊洖杞﹂敭缁х画" << endl;  cin.get(); break;
+		case 2:wm.Del_Emp();  cout << "鎸夊洖杞﹂敭缁х画" << endl;  cin.get(); break;
+		case 3:wm.Show_Emp(); cout << "鎸夊洖杞﹂敭缁х画" << endl;  cin.get(); break;
+		case 4:wm.Mod_Emp();  cout << "鎸夊洖杞﹂敭缁х画" << endl;  cin.get(); break;
+		case 5:wm.Find_Emp(); cout << "鎸夊洖杞﹂敭缁х画" << endl;  cin.get(); break;
+		case 6:wm.Sort_Emp(); cout << "鎸夊洖杞﹂敭缁х画" << endl;  cin.get(); break;
+		case 7:wm.Clean_File();   cout << "鎸夊洖杞﹂敭缁х画" << endl;  cin.get(); break;
 		}
 		system("cls");
 	}
